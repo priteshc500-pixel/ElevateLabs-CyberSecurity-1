@@ -1,0 +1,28 @@
+Interview Questions Answers
+
+1. What is phishing?
+Phishing is a cyberattack where attackers send fake emails, messages, or websites to trick people into revealing sensitive information such as passwords, bank details, or personal data.
+
+2. How to identify a phishing email?
+Check the sender's email address, suspicious links, spelling mistakes, urgent requests, unexpected attachments, and requests for confidential information.
+
+3. What is email spoofing?
+Email spoofing is the practice of forging the sender's email address to make a message appear as if it came from a trusted source.
+
+4. Why are phishing emails dangerous?
+They can steal passwords, financial information, personal data, install malware, and lead to identity theft.
+
+5. How can you verify the sender's authenticity?
+Check the sender's email address, verify the domain, inspect email headers, and contact the organization through official channels.
+
+6. What tools can analyze email headers?
+Examples include:
+Google Message Header Analyzer
+MXToolbox Header Analyzer
+Microsoft Message Header Analyzer
+
+7. What actions should be taken on suspected phishing emails?
+Do not click links or open attachments. Report the email, delete it, and block the sender.
+
+8. How do attackers use social engineering in phishing?
+They create fear, urgency, curiosity, or trust to manipulate victims into taking actions that benefit the attacker.
