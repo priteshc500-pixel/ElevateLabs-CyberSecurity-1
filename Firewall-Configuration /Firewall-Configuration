@@ -1,0 +1,30 @@
+Step 1: Open Windows Firewall
+
+Press:
+Windows + R
+Type:
+wf.msc
+and press Enter.
+
+Step 2: View Existing Rules
+Click:
+Inbound Rules
+
+Step 3: Create a Rule to Block Port 23
+
+Click New Rule
+Select Port
+Select TCP
+Enter:
+23
+Select Block the connection
+Apply to all profiles
+Name it:
+Block Telnet Port 23
+
+Step 4: Verify Rule
+
+Open Command Prompt:
+netsh advfirewall firewall show rule name=all
+Open Command Prompt:
+netsh advfirewall firewall show rule name=all
